@@ -1,0 +1,16 @@
+{
+  "settings": [
+    {
+      "id": "testinternal",
+      "featureFlag1": true,
+      "featureFlag2": false,
+      "featureFlag3": "internal Test"
+    },
+    {
+      "id": "federicocasadei",
+      "featureFlag1": true,
+      "featureFlag2": true,
+      "featureFlag3": "Federico Casadei"
+    }
+  ]
+}

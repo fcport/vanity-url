@@ -1,0 +1,7 @@
+<div>
+  {{ name() }} : @if(type() === 'boolean'){
+  <input type="checkbox" name="" id="" [checked]="value()" />
+  }@else {
+  <input type="text" name="" id="" [value]="value()" />
+  }
+</div>
